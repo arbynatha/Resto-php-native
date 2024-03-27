@@ -1,0 +1,13 @@
+login admin dashboard
+
+
+profil admin
+
+username	:admin
+password	:admin
+
+<--! 
+	nama	: Ebnu Arbynatha     
+	Kelas	: 12 rpl 4
+	Absen	: 09
+--!>
